@@ -1,4 +1,4 @@
 # MyProject
 My First Git Project
 <br>
-Author<b>Mnvitha</b>
+Author:<b>Manvitha Shettigar</b>
